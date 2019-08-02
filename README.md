@@ -1,5 +1,5 @@
 # Making Sense
-SFPC Detroit 2019
+SFPC Detroit 2019 taught by Colin Wang
 
 ## Course Description
 Physical computing is taking the screen based world of computing and integrating it into the multidimensional physical realm. Living within this analog world there is already an extraordinarily complex computer with which you’re very familiar with - you! You’re able to perceive the world around you with your senses, process that data with your mind and body, and express yourself through various means and communication methods. 
