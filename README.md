@@ -27,18 +27,12 @@ Putting pen to paper counts, too, and that’s what we’ll do to sum up this ac
 
 Total class time: 2.5 hours
 
-  Introduction 5 mins
-
-  Discussion on pre-class activity 10 mins
-
-  Lecture on physical computing 20 mins
-
-  Hands on playing with hardware and code 45 mins
-
-  Break 5 mins
-
-  Hands on creating interactive devices 45 mins
-
-  Wrap up 10 mins
+  - Introduction 5 mins
+  - Discussion on pre-class activity 10 mins
+  - Lecture on physical computing 20 mins
+  - Hands on playing with hardware and code 45 mins
+  - Break 5 mins
+  - Hands on creating interactive devices 45 mins
+  - Wrap up 10 mins
 
 *Flex time 10 mins
