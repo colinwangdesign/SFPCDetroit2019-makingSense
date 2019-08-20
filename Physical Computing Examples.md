@@ -12,11 +12,15 @@ Here are some examples of physical computing out in the world. Some of these exa
 
 - [ATONATON / Madeline Gannon](https://atonaton.com/work-all) – Artists working with robot arms to explore our relationship with machines.
 
+- [Shih Chieh Huang](https://www.thisiscolossal.com/2019/03/incubate-by-shih-chieh-huang/) - New York based artist working with computer fans, small pumps, lights, and plastic bags. 
+
 - [A million Times 288](https://www.humanssince1982.com/a-million-times-288) by [Humans](https://www.humanssince1982.com/a-million-times-288) – Swedish artists with a few similar pieces that use rotating arms (like clocks) that move together in figurative patterns. 
 
 - [Inferno](https://vimeo.com/130670526) by Louis Philippe Demers and Bill Vorn – Robot exoskeleton rave where participants get strapped in and dance at the mercy of the robots. 
 
 - [Zimoun](https://www.zimoun.net/) – Swiss artist, uses motors in a lot of their pieces.
+
+- [awe.curation](https://www.instagram.com/awe.curation/) - Great feed of cool physical computing and new media projects.
 
 - [CAN bus Controller Area Network bus](https://www.popularmechanics.com/cars/how-to/a7386/how-it-works-the-computer-inside-your-car/) – The software protocol that connects all the sensors in your car and allows everything to communicate without a central computer. Wikipedia article [here](https://en.wikipedia.org/wiki/CAN_bus). 
 
