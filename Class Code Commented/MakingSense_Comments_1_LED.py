@@ -1,4 +1,4 @@
-from gpiozero import LED as  # Imports the LED functions from the GPIO library
+from gpiozero import LED     # Imports the LED functions from the GPIO library
 from time import sleep       # Imports the sleep functions from the time library
 
 led = LED(21)    # Initializes pin 21 as an LED and defines variable name "led"
