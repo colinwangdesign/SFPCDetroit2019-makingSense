@@ -14,7 +14,7 @@ led = LED(21)
 #    else:
 #        led.on()
 
-distanceMeters = DistanceSensor(trigger = 8, echo = 11, threshold_distance = 0.15)
+distanceMeters = DistanceSensor(trigger = 18, echo = 14, threshold_distance = 0.15)
 
 while True:
     distanceInches = distanceMeters.distance * 39.37
@@ -26,4 +26,3 @@ while True:
     distanceMeters.when_out_of_range = led.off
 
     sleep(.1)
-
