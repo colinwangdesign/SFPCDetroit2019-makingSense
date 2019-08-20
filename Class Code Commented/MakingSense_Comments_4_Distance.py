@@ -21,7 +21,7 @@ while True:
         led.on()
 '''
 
-distanceMeters = DistanceSensor(trigger = 8, echo = 11)     # Initializes pins 8 and 11 as a DistanceSensor echo and trigger, respectively, and defines variable name "distanceMeters"
+distanceMeters = DistanceSensor(trigger = 18, echo = 14)     # Initializes pins 8 and 11 as a DistanceSensor echo and trigger, respectively, and defines variable name "distanceMeters"
  
 while True:                                                 # Run the indented code forever
     distanceInches = distanceMeters.distance * 39.37        # Define variable "distanceInches" as distanceMeters times 39.37

@@ -19,7 +19,7 @@ while True:
         led.on()
 '''
     
-distanceMeters = DistanceSensor(trigger = 8, echo = 11, threshold_distance = 0.15)
+distanceMeters = DistanceSensor(trigger = 18, echo = 14, threshold_distance = 0.15)
 # Initializes pins 8 and 11 as a DistanceSensor echo and trigger, respectively, and defines variable name "distanceMeters". Also sets threshold distance to 0.15m (~6in)
  
 while True:                                              # Run the indented code forever
@@ -32,5 +32,4 @@ while True:                                              # Run the indented code
     distanceMeters.when_out_of_range = led.off           # When distance sensed is greater than threshold distance, turn off led
     
     sleep(.1)                                            # Waits 0.1 seconds before running next line of code, in this case back to initializing distanceInches
-
 

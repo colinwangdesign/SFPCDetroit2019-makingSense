@@ -2,7 +2,7 @@ from gpiozero import LED, Button, DistanceSensor, Servo      # Imports the LED, 
 from time import sleep                                       # Imports the sleep functions from the time library
 
 button = Button(16)     # Initializes pin 16 as a Button and defines variable name "button"
-servo = Servo(18)       # Initializes pin 18 as a Servo and defines variable name "servo"
+servo = Servo(8)       # Initializes pin 18 as a Servo and defines variable name "servo"
 
 ''' ### Turning a piezo on and off with a capacitive touch button, and led intialization ###
 led = LED(21)
@@ -30,7 +30,7 @@ while True:
 '''
 
 ''' ### Distance sensor code ###
-distanceMeters = DistanceSensor(trigger = 8, echo = 11, threshold_distance = 0.15)
+distanceMeters = DistanceSensor(trigger = 18, echo = 14, threshold_distance = 0.15)
 
 while True:
     distanceInches = distanceMeters.distance * 39.37
