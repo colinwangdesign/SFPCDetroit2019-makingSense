@@ -4,7 +4,7 @@ from time import sleep
 #led = LED(21)
 #piezo = LED(12)
 button = Button(16)
-servo = Servo(18)
+servo = Servo(8)
 
 #button.when_pressed = piezo.off
 #button.when_released = piezo.on
@@ -25,7 +25,7 @@ while True:
 #    else:
 #        led.on()
 
-#distanceMeters = DistanceSensor(trigger = 8, echo = 11, threshold_distance = 0.15)
+#distanceMeters = DistanceSensor(trigger = 18, echo = 14, threshold_distance = 0.15)
 #
 #while True:
 #    distanceInches = distanceMeters.distance * 39.37
