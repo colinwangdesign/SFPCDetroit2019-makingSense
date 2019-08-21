@@ -21,7 +21,7 @@ Now turn inwards. How do you feel? What’s on your mind? Do your thoughts wande
 
 Lastly, take those thoughts and emotions and consider how you would translate them into tangible outputs. In what ways do you express yourself in the physical world? Perhaps, you’re a singer or a dancer? Another way to look at it is in what sorts of mediums do you practice art? 
 
-Putting pen to paper counts, too, and that’s what we’ll do to sum up this activity. Please write a short poem or make a quick drawing that captures the process we just walked through in this exercise. Keep this process in mind for our class, the one of Sensory input -> Internal processing -> Tangible output. We’ll share our findings from this exercise and use them as inspiration for our class in class activity.
+Putting pen to paper counts, too, and that’s what we’ll do to sum up this activity. Please write a short poem or make a quick drawing that captures the process we just walked through in this exercise. Keep this process in mind for our class, the one of Sensory input -> Internal processing -> Tangible output. We’ll share our findings from this exercise and use them as inspiration for our in class activity.
 
 ## Class Agenda
 
@@ -33,6 +33,6 @@ Total class time: 2.5 hours
   - Hands on playing with hardware and code 45 mins
   - Break 5 mins
   - Hands on creating interactive devices 45 mins
-  - Wrap up 10 mins
+  - Share out and wrap up 10 mins
 
 *Flex time 10 mins
